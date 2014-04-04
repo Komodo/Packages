@@ -51,3 +51,14 @@ module.exports =
         homepage: "https://github.com/Komodo/macros"
         raw_url: "https://raw.github.com/Komodo/macros/master/automagic_snippets_from_text.js"
         updated_at: "2014-03-24T00:00:00Z"
+
+    "CSS Color Palette": "https://github.com/mahonnaise/Komodo-Macros"
+    "Magicalhobo's Macro's":
+        html_url: "https://github.com/magicalhobo/KomodoMacros"
+        readme: content: """
+            Includes the macro's:
+
+             * Duplicate Selection Up/Down
+             * Search By Selection
+             * Transpose Selection
+        """

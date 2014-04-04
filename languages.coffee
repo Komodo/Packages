@@ -5,3 +5,6 @@ module.exports =
     "Torque Script": "https://github.com/elfprince13/KomodoTS"
     "D Language": "https://github.com/RobKellett/komodo-d"
     "Moose": "https://github.com/tmueller/PerlMoose-for-Komodo"
+    "Lilypond": "https://github.com/marnen/komodo-lilypond"
+    "R Language": "https://github.com/jacoby/RLangSyntax"
+    "Objective-C++": "https://github.com/Quuxplusone/objectivecpp-for-komodoedit"

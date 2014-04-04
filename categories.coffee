@@ -30,4 +30,8 @@ module.exports = [
     name: "Keybindings"
     description: ""
     resource: "keybinds.coffee"
+,
+    name: "Tools"
+    description: ""
+    resource: "tools.coffee"
 ]
