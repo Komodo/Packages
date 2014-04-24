@@ -41,9 +41,9 @@ module.exports =
             login: "Philippe Grosjean"
             html_url: "http://community.activestate.com/xpi/zen-coding"
         raw_url: "http://community.activestate.com/files/sciviewsk-0.9.33-ko.xpi"
-        description: "A web-developer�s toolkit that can greatly improve your HTML & CSS workflow."
+        description: "A web-developer's toolkit that can greatly improve your HTML & CSS workflow."
         readme: content: """
-            A web-developer�s toolkit that can greatly improve your HTML & CSS
+            A web-developer's toolkit that can greatly improve your HTML & CSS
             workflow. Read more on [emmetio](http://emmet.io/)
 
             When installed, Emmet actions will be available under Tools menu.
