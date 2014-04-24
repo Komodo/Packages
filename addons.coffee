@@ -3,7 +3,8 @@ module.exports =
     "Stylish": "https://github.com/Komodo/stylish"
     "Side by Side Diff": "https://github.com/Komodo/SideBySideDiff"
     "New Source Tree": "https://github.com/HTD/NST"
-    "koctags": "https://github.com/agroszer/koctags"
+    "exuberant Ctags support for Komodo IDE / EDIT": "https://github.com/agroszer/koctags"
+    "qwin: Tab switching, text completion, cliboard history": "https://github.com/agroszer/komodo-qwin"
     "Komodin Git": "https://github.com/titoBouzout/komodo-komodin-git"
     "SQLite Manager": "https://github.com/lazierthanthou/sqlite-manager"
     "Quick Diff": "https://github.com/tuomassalo/komodo-quickdiff"
@@ -40,16 +41,16 @@ module.exports =
             login: "Philippe Grosjean"
             html_url: "http://community.activestate.com/xpi/zen-coding"
         raw_url: "http://community.activestate.com/files/sciviewsk-0.9.33-ko.xpi"
-        description: "A web-developer’s toolkit that can greatly improve your HTML & CSS workflow."
+        description: "A web-developer's toolkit that can greatly improve your HTML & CSS workflow."
         readme: content: """
-            A web-developer’s toolkit that can greatly improve your HTML & CSS
+            A web-developer's toolkit that can greatly improve your HTML & CSS
             workflow. Read more on [emmetio](http://emmet.io/)
 
             When installed, Emmet actions will be available under Tools menu.
             To bind keyboard shortcuts, go to Preferences > Editor > Key bindings
             and filter commands by \"Emmet\" prefix.
 
-            [Extensions](http://docs.emmet.io/customization/) Emmet automatically loads extensions from emmet folder of system’s user HOME folder.
+            [Extensions](http://docs.emmet.io/customization/) Emmet automatically loads extensions from emmet folder of systemï¿½s user HOME folder.
         """
         created_at: "2010-02-15"
         updated_at: "2013-03-24"
