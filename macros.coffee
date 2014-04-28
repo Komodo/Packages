@@ -17,6 +17,7 @@ module.exports =
         """
         homepage: "https://github.com/Komodo/macros"
         raw_url: "https://raw.github.com/Komodo/macros/master/find_results_copy.js"
+        created_at: "2014-03-24T00:00:00Z"
         updated_at: "2014-03-24T00:00:00Z"
 
     "Open Terminal Here":
@@ -28,6 +29,7 @@ module.exports =
         readme: content: 'Adds an "Open Terminal Here" menu item to folder items in the Places widget'
         homepage: "https://github.com/Komodo/macros"
         raw_url: "https://raw.github.com/Komodo/macros/master/Open_Terminal_Here.js"
+        created_at: "2014-03-24T00:00:00Z"
         updated_at: "2014-03-24T00:00:00Z"
 
     "Create Snippet From Text":
@@ -50,6 +52,7 @@ module.exports =
         """
         homepage: "https://github.com/Komodo/macros"
         raw_url: "https://raw.github.com/Komodo/macros/master/automagic_snippets_from_text.js"
+        created_at: "2014-03-24T00:00:00Z"
         updated_at: "2014-03-24T00:00:00Z"
 
     "CSS Color Palette": "https://github.com/mahonnaise/Komodo-Macros"
@@ -62,3 +65,5 @@ module.exports =
              * Search By Selection
              * Transpose Selection
         """
+        created_at: "2012-04-07T00:00:00Z"
+        updated_at: "2012-04-07T00:00:00Z"
