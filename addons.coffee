@@ -40,16 +40,16 @@ module.exports =
             login: "Philippe Grosjean"
             html_url: "http://community.activestate.com/xpi/zen-coding"
         raw_url: "http://community.activestate.com/files/sciviewsk-0.9.33-ko.xpi"
-        description: "A web-developer’s toolkit that can greatly improve your HTML & CSS workflow."
+        description: "A web-developers toolkit that can greatly improve your HTML & CSS workflow."
         readme: content: """
-            A web-developer’s toolkit that can greatly improve your HTML & CSS
+            A web-developers toolkit that can greatly improve your HTML & CSS
             workflow. Read more on [emmetio](http://emmet.io/)
 
             When installed, Emmet actions will be available under Tools menu.
             To bind keyboard shortcuts, go to Preferences > Editor > Key bindings
             and filter commands by \"Emmet\" prefix.
 
-            [Extensions](http://docs.emmet.io/customization/) Emmet automatically loads extensions from emmet folder of system’s user HOME folder.
+            [Extensions](http://docs.emmet.io/customization/) Emmet automatically loads extensions from emmet folder of systems user HOME folder.
         """
         created_at: "2010-02-15"
         updated_at: "2013-03-24"
@@ -106,7 +106,7 @@ module.exports =
         raw_url: "http://community.activestate.com/files/remotedrivetree-1.4.3-ko_0.xpi"
         description: "Here is an extension that provides a servers tab inside of Komodo (installed after the Code Browser tab)."
         readme: content:"""
-            ![][1] Here is an extension that provides a servers tab inside of Komodo (installed after the Code Browser tab).
+            Here is an extension that provides a servers tab inside of Komodo (installed after the Code Browser tab).
 
             This extension provides a server tree row, one for each of your server accounts set in server preferences.
 
@@ -118,7 +118,6 @@ module.exports =
 
             ![RemoteDriveTree extension screenshot][3]
 
-               [1]: http://community.activestate.com/files/images/RemoteDriveTree_ScreenShot_v2.thumbnail.png
                [2]: http://bugs.activestate.com/show_bug.cgi?id=81497
                [3]: http://community.activestate.com/files/images/RemoteDriveTree_ScreenShot_v2.png (RemoteDriveTree extension screenshot)
         """
