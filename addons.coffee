@@ -17,6 +17,7 @@ module.exports =
     "Perfect Python": "https://github.com/raymondbutcher/perfectpython"
     "Paster!": "https://github.com/jdpaton/Paster"
     "Autocode": "https://github.com/davestewart/komodo-autocode"
+    "Tabswitcher": "https://github.com/dafizilla/komodo-tabswitcher"
     
     "TabSwitcher revived":
         owner:
