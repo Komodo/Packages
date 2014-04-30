@@ -3,7 +3,7 @@ module.exports =
     "Stylish": "https://github.com/Komodo/stylish"
     "Side by Side Diff": "https://github.com/Komodo/SideBySideDiff"
     "New Source Tree": "https://github.com/HTD/NST"
-    "exuberant Ctags support for Komodo IDE / EDIT": "https://github.com/agroszer/koctags"
+    "exuberant Ctags support": "https://github.com/agroszer/koctags"
     "qwin: Tab switching, text completion, cliboard history": "https://github.com/agroszer/komodo-qwin"
     "Komodin Git": "https://github.com/titoBouzout/komodo-komodin-git"
     "SQLite Manager": "https://github.com/lazierthanthou/sqlite-manager"
