@@ -9,7 +9,6 @@ module.exports =
     "SQLite Manager": "https://github.com/lazierthanthou/sqlite-manager"
     "Quick Diff": "https://github.com/tuomassalo/komodo-quickdiff"
     "SciViews-R": "https://github.com/cran/svKomodo"
-    "Todo.txt": "https://github.com/technopoetic/komodo_todo"
     "Klint": "https://github.com/dafizilla/komodo-klint"
     "Xultris": "https://github.com/mackers/xultris"
     "Avim": "https://github.com/1ec5/avim"
