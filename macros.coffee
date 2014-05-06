@@ -34,7 +34,7 @@ module.exports =
 
     "Create Snippet From Text":
         owner:
-            login: "cghoffman"
+            login: "cgchoffman"
             gravatar_id: "d1a00b9762070a83e9f9dac8f615bb3d"
             html_url: "https://github.com/cgchoffman"
         description: "Create a snippet from selected text, add a name and automatically open
@@ -174,9 +174,9 @@ module.exports =
 
     "Automagic Snippets From Text":
         owner:
-            login: "cghoffman"
+            login: "cgchoffman"
             gravatar_id: "d1a00b9762070a83e9f9dac8f615bb3d"
-            html_url: "https://github.com/cghoffman"
+            html_url: "https://github.com/cgchoffman"
         description: "Create a snippet from selected text, add a name and automatically open properties to add keybinding."
         readme: content: """
             Create a snippet from selected text, add a name and automatically
@@ -191,9 +191,9 @@ module.exports =
 
     "Byte or Char Position":
         owner:
-            login: "cghoffman"
+            login: "cgchoffman"
             gravatar_id: "d1a00b9762070a83e9f9dac8f615bb3d"
-            html_url: "https://github.com/cghoffman"
+            html_url: "https://github.com/cgchoffman"
         description: "Show the Byte or Char position of your cursor in the Statusbar beside Ln and Col."
         readme: content: """
             Show the Byte or Char position of your cursor in the Statusbar beside Ln and Col.
@@ -207,9 +207,9 @@ module.exports =
 
     "Img Tag Dimensions":
         owner:
-            login: "cghoffman"
+            login: "cgchoffman"
             gravatar_id: "d1a00b9762070a83e9f9dac8f615bb3d"
-            html_url: "https://github.com/cghoffman"
+            html_url: "https://github.com/cgchoffman"
         description: "Execute the macro insdie an img tag in an html file, which the src attribute filled in. The macro will load the image and input the height and width of the image attributes with the correct dimensions."
         readme: content: """
            Execute the macro insdie an img tag in an html file, which the src attribute filled in.
