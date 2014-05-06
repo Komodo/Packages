@@ -205,3 +205,21 @@ module.exports =
         created_at: "2014-03-31T00:00:00Z"
         updated_at: "2014-03-31T00:00:00Z"
 
+    "Img Tag Dimensions":
+        owner:
+            login: "cghoffman"
+            gravatar_id: "d1a00b9762070a83e9f9dac8f615bb3d"
+            html_url: "https://github.com/cghoffman"
+        description: "Execute the macro insdie an img tag in an html file, which the src attribute filled in. The macro will load the image and input the height and width of the image attributes with the correct dimensions."
+        readme: content: """
+           Execute the macro insdie an img tag in an html file, which the src attribute filled in.
+           The macro will load the image and input the height and width of the image attributes
+           with the correct dimensions
+
+            For more info check the [Quicky Adding Custom Snippets](http://komodoide.com/blog/2014-03/quickly-adding-custom-snippets/) blog.
+        """
+        homepage: "https://github.com/Komodo/macros"
+        raw_url: "https://github.com/Komodo/macros/blob/master/img_dimensions.js"
+        created_at: "2014-05-05T00:00:00Z"
+        updated_at: "2014-05-05T00:00:00Z"
+
