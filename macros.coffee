@@ -223,3 +223,17 @@ module.exports =
         created_at: "2014-05-05T00:00:00Z"
         updated_at: "2014-05-05T00:00:00Z"
 
+    "Auto Allman Braces":
+        owner:
+            login: "Naatan"
+            gravatar_id: "0bba0ddcdbb7fa3de8455389251e2f6d"
+            html_url: "https://github.com/Naatan"
+        description: "Auto completes curly braces to start on a new line, Allman style - experimental"
+        readme: content: """
+           Thanks to "woodpile" from the Komodo forums for [suggesting this functionality](http://forum.komodoide.com/t/function-expression-structure/242).
+        """
+        homepage: "https://gist.github.com/Naatan/e82011550823421e7013"
+        raw_url: "https://gist.github.com/Naatan/e82011550823421e7013"
+        created_at: "2014-05-09T12:00:00Z"
+        updated_at: "2014-05-09T12:00:00Z"
+
