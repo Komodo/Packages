@@ -172,6 +172,23 @@ module.exports =
         created_at: "2014-03-21T00:00:00Z"
         updated_at: "2014-03-21T00:00:00Z"
 
+    "SCC Annotate":
+        owner:
+            login: "toddw-as"
+            gravatar_id: "fbf0600881da69934bad33192694d484"
+            html_url: "https://github.com/toddw-as"
+        description: "Display source code control (SCC) line annotations in the left editor margin."
+        readme: content: """
+            Macro shows source code control annotate information in the left scintilla
+            margin. Running the macro a second time removes the annotation margin.
+            
+            This is an on demand macro, best used with a keybinding (Ctrl+K, Ctrl+A. for example).
+        """
+        homepage: "https://github.com/Komodo/macros"
+        raw_url: "https://github.com/Komodo/macros/blob/master/scc_annotate.js"
+        created_at: "2014-05-19T00:00:00Z"
+        updated_at: "2014-05-19T00:00:00Z"
+
     "Automagic Snippets From Text":
         owner:
             login: "cgchoffman"
