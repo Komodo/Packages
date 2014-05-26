@@ -268,4 +268,19 @@ module.exports =
         raw_url: "https://gist.github.com/Naatan/e82011550823421e7013"
         created_at: "2014-05-09T12:00:00Z"
         updated_at: "2014-05-09T12:00:00Z"
-
+    
+    "Img Tag Dimensions":
+        owner:
+            login: "cgchoffman"
+            gravatar_id: "d1a00b9762070a83e9f9dac8f615bb3d"
+            html_url: "https://github.com/cgchoffman"
+        description: "Run this macro to swaps the positions of the character at the current caret position and the next character in the line."
+        readme: content: """
+            Run this macro to swaps the positions of the character at the current caret
+            position and the next character in the line.
+        """
+        homepage: "https://github.com/Komodo/macros"
+        raw_url: "https://github.com/Komodo/macros/blob/master/transpose.js"
+        created_at: "2014-05-26T00:00:00Z"
+        updated_at: "2014-05-26T00:00:00Z"
+    
