@@ -5,4 +5,4 @@ module.exports =
     "FreshCut": "https://github.com/Defman21/freshcut-komodo"
     "Spacegray": "https://github.com/Defman21/spacegray-komodo"
     "Monokai": "https://github.com/Defman21/monokai-komodo"
-    "Base16-Default Light": "https://github.com/Defman21/base16-default-light"
+    "Brightgray": "https://github.com/Defman21/brightgray-komodo"
