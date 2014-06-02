@@ -284,3 +284,26 @@ module.exports =
         created_at: "2014-05-26T00:00:00Z"
         updated_at: "2014-05-26T00:00:00Z"
     
+    "Select Brace Contents":
+        owner:
+            login: "Naatan"
+            gravatar_id: "0bba0ddcdbb7fa3de8455389251e2f6d"
+            html_url: "https://github.com/Naatan"
+        description: "Allows easy selection of the text within xml/html braces"
+        readme: content: """
+            Let's say you have the following snippet of html:
+            
+            ```
+            <strong>This text is bold</strong>
+            ```
+            
+            With this macro you can simply put your cursor anywhere within the braces and execute the macro to select the contents of the braces (ie. the text)
+            
+            This macro is very plain and fairly dumb, it will likely not be able to select complex values (eg. sub-nodes). Feel free to fork and extend.
+            
+            It currently only covers html "braces" (ok, technically not braces), but support for other delimiters should be relatively easy to add.
+        """
+        raw_url: "https://gist.github.com/Naatan/99abd413394f10dd994d"
+        created_at: "2014-06-02T00:00:00Z"
+        updated_at: "2014-05-02T00:00:00Z"
+    
