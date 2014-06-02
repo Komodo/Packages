@@ -306,4 +306,6 @@ module.exports =
         raw_url: "https://gist.github.com/Naatan/99abd413394f10dd994d"
         created_at: "2014-06-02T00:00:00Z"
         updated_at: "2014-05-02T00:00:00Z"
+        
+    "Markdown Preview": "https://github.com/ivoryworks/komodo-markdown-aid"
     
