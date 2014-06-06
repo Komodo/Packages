@@ -309,3 +309,29 @@ module.exports =
         
     "Markdown Preview": "https://github.com/ivoryworks/komodo-markdown-aid"
     
+    "Brace Wrap Selection":
+        owner:
+            login: "toddw-as"
+            gravatar_id: "fbf0600881da69934bad33192694d484"
+            html_url: "https://github.com/toddw-as"
+        description: "Automatically adds braces around the editor text selection when a brace character ([{'\" is pressed."
+        readme: content: """
+            Let's say you have the following text, with the bold text selected:
+
+            ```
+            This <strong>text is selected</strong> in the middle.
+            ```
+
+            Typing the left-paren character ( will wrap the selected text in braces, transforming the text into:
+
+            ```
+            This <strong>(text is selected)</strong> in the middle.
+            ```
+
+            This is best used as a startup macro, allowing brace wrapping on all editor selections.
+        """
+        homepage: "https://github.com/Komodo/macros"
+        raw_url: "https://github.com/Komodo/macros/blob/master/brace_wrap_selection.js"
+        created_at: "2014-06-06T00:00:00Z"
+        updated_at: "2014-06-06T00:00:00Z"
+
