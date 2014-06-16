@@ -6,3 +6,4 @@ module.exports =
     "Spacegray": "https://github.com/Defman21/spacegray-komodo"
     "Monokai": "https://github.com/Defman21/monokai-komodo"
     "Brightgray": "https://github.com/Defman21/brightgray-komodo"
+    "Spolsky": "https://github.com/Defman21/spolsky-komodo"
