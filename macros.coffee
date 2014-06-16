@@ -335,3 +335,12 @@ module.exports =
         created_at: "2014-06-06T00:00:00Z"
         updated_at: "2014-06-06T00:00:00Z"
 
+    "Execute As PHP":
+        owner:
+            login: "Naatan"
+            gravatar_id: "0bba0ddcdbb7fa3de8455389251e2f6d"
+            html_url: "https://github.com/Naatan"
+        description: "Quickly execute a snippet of code as PHP, the snippet can be an (unsaved) file or simply the text you currently have selected"
+        raw_url: "https://gist.github.com/Naatan/7375244"
+        created_at: "2014-06-16T00:00:00Z"
+        updated_at: "2014-06-16T00:00:00Z"
