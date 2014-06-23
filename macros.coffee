@@ -240,7 +240,7 @@ module.exports =
         created_at: "2014-05-05T00:00:00Z"
         updated_at: "2014-05-05T00:00:00Z"
         
-    "Remote SSH Commands":
+    "SSH Commands":
         owner:
             login: "cgchoffman"
             gravatar_id: "d1a00b9762070a83e9f9dac8f615bb3d"
@@ -249,10 +249,10 @@ module.exports =
         readme: content: """
            Run this macro with a remote file open to execute an SSH command on the remote server.
 
-            For more info check the [Quicky Adding Custom Snippets](http://komodoide.com/blog/2014-06/run-remote-ssh-command) blog.
+            For more info check the [Quicky Adding Custom Snippets](http://komodoide.com/blog/2014-06/run-ssh-command-from-komodo) blog.
         """
         homepage: "https://github.com/Komodo/macros"
-        raw_url: "https://github.com/Komodo/macros/blob/master/remote_ssh_command.js"
+        raw_url: "https://github.com/Komodo/macros/blob/master/ssh_command.js"
         created_at: "2014-06-23T00:00:00Z"
         updated_at: "2014-06-23T00:00:00Z"
 
