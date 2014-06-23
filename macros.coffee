@@ -239,6 +239,22 @@ module.exports =
         raw_url: "https://github.com/Komodo/macros/blob/master/img_dimensions.js"
         created_at: "2014-05-05T00:00:00Z"
         updated_at: "2014-05-05T00:00:00Z"
+        
+    "Remote SSH Commands":
+        owner:
+            login: "cgchoffman"
+            gravatar_id: "d1a00b9762070a83e9f9dac8f615bb3d"
+            html_url: "https://github.com/cgchoffman"
+        description: "Run this macro with a remote file open to execute an SSH command on the remote server."
+        readme: content: """
+           Run this macro with a remote file open to execute an SSH command on the remote server.
+
+            For more info check the [Quicky Adding Custom Snippets](http://komodoide.com/blog/2014-06/) blog.
+        """
+        homepage: "https://github.com/Komodo/macros"
+        raw_url: "https://github.com/Komodo/macros/blob/master/remote_ssh_command.js"
+        created_at: "2014-06-23T00:00:00Z"
+        updated_at: "2014-06-23T00:00:00Z"
 
     "Auto Allman Braces":
         owner:
