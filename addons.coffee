@@ -1,4 +1,5 @@
 module.exports =
+    "WakaTime": "https://github.com/wakatime/komodo-wakatime"
     "Todo Helper": "https://github.com/Komodo/Todo"
     "Stylish": "https://github.com/Komodo/stylish"
     "Side by Side Diff": "https://github.com/Komodo/SideBySideDiff"
