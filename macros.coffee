@@ -249,7 +249,7 @@ module.exports =
         readme: content: """
            Run this macro with a remote file open to execute an SSH command on the remote server.
 
-            For more info check the [Quicky Adding Custom Snippets](http://komodoide.com/blog/2014-06/) blog.
+            For more info check the [Quicky Adding Custom Snippets](http://komodoide.com/blog/2014-06/run-remote-ssh-command) blog.
         """
         homepage: "https://github.com/Komodo/macros"
         raw_url: "https://github.com/Komodo/macros/blob/master/remote_ssh_command.js"
