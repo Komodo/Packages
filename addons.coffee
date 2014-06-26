@@ -18,6 +18,7 @@ module.exports =
     "Paster!": "https://github.com/jdpaton/Paster"
     "Autocode": "https://github.com/davestewart/komodo-autocode"
     "Tabswitcher": "https://github.com/dafizilla/komodo-tabswitcher"
+    "MacroTool addon": "https://github.com/Defman21/komodo-macrotool"
     
     "TabSwitcher revived":
         owner:
