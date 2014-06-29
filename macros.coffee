@@ -360,3 +360,12 @@ module.exports =
         raw_url: "https://gist.github.com/Naatan/7375244"
         created_at: "2014-06-16T00:00:00Z"
         updated_at: "2014-06-16T00:00:00Z"
+
+    "CamelCase":
+        owner:
+            login: "smelzo"
+            html_url: "https://github.com/smelzo"
+        description: "Convert/Reconvert selection/line in camelCase"
+        raw_url: "https://gist.github.com/smelzo/c66e411ae91b3fdf737e"
+        created_at: "2014-06-29T00:00:00Z"
+        updated_at: "2014-06-29T00:00:00Z"
