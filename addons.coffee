@@ -126,3 +126,24 @@ module.exports =
         """
         created_at: "2007-11-16"
         updated_at: "2013-03-11"
+
+    "DOM Inspector": ""
+        owner:
+            login: "Todd Whiteman"
+            html_url: "http://community.activestate.com/xpi/dom-inspector"
+        raw_url: "http://community.activestate.com/files/dom_inspector-2.0.14-fx+sm+fn+tb+ko.xpi"
+        description: "Developer tool to examine the elements of the Komodo user interface - DOM nodes and CSS styling."
+        readme: content:"""
+            DOM Inspector is a tool that can be used to inspect and edit the
+            live UI (DOM) of Komodo. The DOM can be navigated using a two-paned
+            window displaying a variety of different views on the document and
+            all nodes within.
+
+            **Screenshot**
+
+            ![DOM Inspector screenshot][4]
+
+               [4]: https://addons.cdn.mozilla.net/img/uploads/previews/full/46/46978.png (DOM Inspector screenshot)
+        """
+        created_at: "2008-02-01"
+        updated_at: "2014-07-02"
