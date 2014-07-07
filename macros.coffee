@@ -370,7 +370,7 @@ module.exports =
         created_at: "2014-06-29T00:00:00Z"
         updated_at: "2014-06-29T00:00:00Z"
 
-    "Worspace Tool":
+    "Worspace Save/Restore Tool":
         owner:
             login: "cgchoffman"
             gravatar_id: "d1a00b9762070a83e9f9dac8f615bb3d"
@@ -382,5 +382,5 @@ module.exports =
             """
         homepage: "https://github.com/Komodo/macros"
         raw_url: "https://github.com/Komodo/macros/blob/master/workspace_util.js"
-        created_at: "2014-05-26T00:00:00Z"
-        updated_at: "2014-05-26T00:00:00Z"
+        created_at: "2014-07-07T06:00:00Z"
+        updated_at: "2014-07-07T06:00:00Z"
