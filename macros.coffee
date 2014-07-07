@@ -369,3 +369,18 @@ module.exports =
         raw_url: "https://gist.github.com/smelzo/c66e411ae91b3fdf737e"
         created_at: "2014-06-29T00:00:00Z"
         updated_at: "2014-06-29T00:00:00Z"
+
+    "Worspace Tool":
+        owner:
+            login: "cgchoffman"
+            gravatar_id: "d1a00b9762070a83e9f9dac8f615bb3d"
+            html_url: "https://github.com/cgchoffman"
+        description: "Save workspace (all open files) to a file.  Does not have a project context, it simply saves all files that are open for easy reopning later."
+        readme: content: """
+            Save workspace (all open files) to a file.  Does not have a project context,
+            it simply saves all files that are open for easy reopning later.
+            """
+        homepage: "https://github.com/Komodo/macros"
+        raw_url: "https://github.com/Komodo/macros/blob/master/workspace_util.js"
+        created_at: "2014-05-26T00:00:00Z"
+        updated_at: "2014-05-26T00:00:00Z"
