@@ -211,5 +211,5 @@ module.exports =
             I use this addon regularly in my own work, and subjected all of my students to it, with success.
             I hope that you will also find it useful in website development.
         """
-        created_at: "2008-07-08 06:00"
+        created_at: "2014-07-08 06:00"
         updated_at: "2014-07-08 06:00"
