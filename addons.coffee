@@ -1,7 +1,6 @@
 module.exports =
     "WakaTime": "https://github.com/wakatime/komodo-wakatime"
     "Todo Helper": "https://github.com/Komodo/Todo"
-    "Stylish": "https://github.com/Komodo/stylish"
     "Side by Side Diff": "https://github.com/Komodo/SideBySideDiff"
     "New Source Tree": "https://github.com/HTD/NST"
     "exuberant Ctags support": "https://github.com/agroszer/koctags"
@@ -19,6 +18,10 @@ module.exports =
     "Autocode": "https://github.com/davestewart/komodo-autocode"
     "Tabswitcher": "https://github.com/dafizilla/komodo-tabswitcher"
     "MacroTool addon": "https://github.com/Defman21/komodo-macrotool"
+    
+    "Stylish": 
+        html_url: "https://github.com/Komodo/stylish"
+        raw_url: "https://addons.mozilla.org/firefox/downloads/latest/2108/platform:2/addon-2108-latest.xpi"
     
     "TabSwitcher revived":
         owner:
