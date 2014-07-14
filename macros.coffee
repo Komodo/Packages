@@ -384,3 +384,5 @@ module.exports =
         raw_url: "https://github.com/Komodo/macros/blob/master/workspace_util.js"
         created_at: "2014-07-07T06:00:00Z"
         updated_at: "2014-07-07T06:00:00Z"
+
+    "JSEval": "https://github.com/tenbits/komodo-macro-jseval"
