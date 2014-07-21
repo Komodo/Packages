@@ -386,3 +386,19 @@ module.exports =
         updated_at: "2014-07-07T06:00:00Z"
 
     "JSEval": "https://github.com/tenbits/komodo-macro-jseval"
+
+    "Alternative Location":
+        owner:
+            login: "toddw-as"
+            gravatar_id: "fbf0600881da69934bad33192694d484"
+            html_url: "https://github.com/toddw-as"
+        description: "Open the current file at an alternative location."
+        readme: content: """
+            Adds an editor tab context menuitem for opening a komodo file in an
+            alternative location. The alternative locations are read from a
+            *locations.ini* configuration file in the Komodo profile directory.
+        """
+        homepage: "https://github.com/Komodo/macros"
+        raw_url: "https://github.com/Komodo/macros/blob/master/alternative_location.js"
+        created_at: "2014-07-21T00:00:00Z"
+        updated_at: "2014-07-21T00:00:00Z"
