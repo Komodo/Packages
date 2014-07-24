@@ -1,5 +1,6 @@
 module.exports =
     "Backup save": "https://github.com/Defman21/komodo-savebackup"
+    "List of files from path string": "https://github.com/Defman21/files-from-path/"
     "Copy Find Results":
         owner:
             login: "toddw-as"
