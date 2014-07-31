@@ -1,6 +1,6 @@
 module.exports =
     "Backup save": "https://github.com/Defman21/komodo-savebackup"
-    "Autocomplete Files Under Path": "https://github.com/Defman21/files-from-path/"
+    "Autocomplete Files Under Path": "https://github.com/Defman21/files-from-path"
     "Copy Find Results":
         owner:
             login: "toddw-as"
