@@ -1,7 +1,7 @@
 module.exports =
     "Backup save": "https://github.com/Defman21/komodo-savebackup"
     "Autocomplete Files Under Path": "https://github.com/Defman21/files-from-path"
-    "Save if different files": "https://github.com/Defman21/save-if-diff-files"
+    "One-Way File Sync": "https://github.com/Defman21/save-if-diff-files"
     "Copy Find Results":
         owner:
             login: "toddw-as"
