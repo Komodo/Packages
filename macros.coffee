@@ -2,6 +2,7 @@ module.exports =
     "Backup save": "https://github.com/Defman21/komodo-savebackup"
     "Autocomplete Files Under Path": "https://github.com/Defman21/files-from-path"
     "One-Way File Sync": "https://github.com/Defman21/save-if-diff-files"
+    "Auto Toggle Panes": "https://github.com/Naatan/Komodo-AutoTogglePanes"
     "Copy Find Results":
         owner:
             login: "toddw-as"
