@@ -1,5 +1,8 @@
 module.exports =
     "Backup save": "https://github.com/Defman21/komodo-savebackup"
+    "Autocomplete Files Under Path": "https://github.com/Defman21/files-from-path"
+    "One-Way File Sync": "https://github.com/Defman21/save-if-diff-files"
+    "Auto Toggle Panes": "https://github.com/Naatan/Komodo-AutoTogglePanes"
     "Copy Find Results":
         owner:
             login: "toddw-as"
@@ -370,7 +373,7 @@ module.exports =
         created_at: "2014-06-29T00:00:00Z"
         updated_at: "2014-06-29T00:00:00Z"
 
-    "Worspace Tool":
+    "Worspace Save/Restore Tool":
         owner:
             login: "cgchoffman"
             gravatar_id: "d1a00b9762070a83e9f9dac8f615bb3d"
@@ -396,5 +399,24 @@ module.exports =
             """
         homepage: "https://github.com/Komodo/macros"
         raw_url: "https://github.com/Komodo/macros/blob/master/print_to_output_pane.js"
-        created_at: "2014-05-26T00:00:00Z"
-        updated_at: "2014-05-26T00:00:00Z"
+        created_at: "2014-08-18T00:00:00Z"
+        updated_at: "2014-08-18T00:00:00Z"
+
+
+    "JSEval": "https://github.com/tenbits/komodo-macro-jseval"
+
+    "Alternative Location":
+        owner:
+            login: "toddw-as"
+            gravatar_id: "fbf0600881da69934bad33192694d484"
+            html_url: "https://github.com/toddw-as"
+        description: "Open the current file at an alternative location."
+        readme: content: """
+            Adds an editor tab context menuitem for opening a komodo file in an
+            alternative location. The alternative locations are read from a
+            *locations.ini* configuration file in the Komodo profile directory.
+        """
+        homepage: "https://github.com/Komodo/macros"
+        raw_url: "https://github.com/Komodo/macros/blob/master/alternative_location.js"
+        created_at: "2014-07-21T00:00:00Z"
+        updated_at: "2014-07-21T00:00:00Z"
