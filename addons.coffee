@@ -19,6 +19,7 @@ module.exports =
     "Autocode": "https://github.com/davestewart/komodo-autocode"
     "Tabswitcher": "https://github.com/dafizilla/komodo-tabswitcher"
     "MacroTool addon": "https://github.com/Defman21/komodo-macrotool"
+    "HTML Tools":"https://github.com/manngo/html-tools"
     
     "TabSwitcher revived":
         owner:
