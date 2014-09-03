@@ -420,3 +420,25 @@ module.exports =
         raw_url: "https://github.com/Komodo/macros/blob/master/alternative_location.js"
         created_at: "2014-07-21T00:00:00Z"
         updated_at: "2014-07-21T00:00:00Z"
+
+    "Comment Toggle":
+        owner:
+            login: "toddw-as"
+            gravatar_id: "fbf0600881da69934bad33192694d484"
+            html_url: "https://github.com/toddw-as"
+        description: "Toggle comment lines on/off in the editor."
+        readme: content: """
+            Will toggle the comments for the selected editor lines (or current
+            line). I use Ctrl+3 (overriding the default cmd_comment keybinding)
+            to invoke this macro, then I never need to use Ctrl+2
+            (cmd_uncomment) at all.
+
+            ## Usage
+            1. Install the Macro (drag the .komodotool into your toolbox)
+            2. Assign a Keybind to your macro (right click > Properties > Key Binding)
+            3. Execute the macro with your keybinding.
+        """
+        homepage: "https://github.com/Komodo/macros"
+        raw_url: "https://github.com/Komodo/macros/blob/master/comment_toggle.py"
+        created_at: "2014-09-03T00:00:00Z"
+        updated_at: "2014-09-03T00:00:00Z"
