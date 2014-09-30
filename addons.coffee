@@ -21,8 +21,7 @@ module.exports =
     "HTML Tools":"https://github.com/manngo/html-tools"
     
     "Stylish": 
-        html_url: "https://github.com/Komodo/stylish"
-        raw_url: "https://addons.mozilla.org/firefox/downloads/latest/2108/platform:2/addon-2108-latest.xpi"
+        html_url: "https://github.com/JasonBarnabe/stylish"
     
     "TabSwitcher revived":
         owner:
