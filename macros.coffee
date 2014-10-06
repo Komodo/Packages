@@ -3,7 +3,6 @@ module.exports =
     "Autocomplete Files Under Path": "https://github.com/Defman21/files-from-path"
     "One-Way File Sync": "https://github.com/Defman21/save-if-diff-files"
     "Auto Toggle Panes": "https://github.com/Naatan/Komodo-AutoTogglePanes"
-    "Wrap Selection": "https://github.com/Komodo/Wrap-Selection-Macro"
     "Mark Text": "https://github.com/Komodo/Mark-Text-Macro"
     "Copy Find Results":
         owner:
