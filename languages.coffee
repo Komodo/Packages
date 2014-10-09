@@ -9,7 +9,9 @@ module.exports =
     "R Language": "https://github.com/jacoby/RLangSyntax"
     "Objective-C++": "https://github.com/Quuxplusone/objectivecpp-for-komodoedit"
     "Mako Template Highlighting": "https://github.com/creiht/komodomako"
-
+    "Jade Syntax Highlighting": 
+        html_url: "https://github.com/rkgarcia/JadeLang4Komodo"
+        raw_url: "https://github.com/rkgarcia/JadeLang4Komodo/blob/master/build/xpi/jade_support-0.1-ko.xpi?raw=true"
     "PeopleCode Language":
         owner:
             login: "Jason Hardies"
