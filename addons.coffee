@@ -19,6 +19,7 @@ module.exports =
     "Tabswitcher": "https://github.com/dafizilla/komodo-tabswitcher"
     "MacroTool addon": "https://github.com/Defman21/komodo-macrotool"
     "HTML Tools":"https://github.com/manngo/html-tools"
+    "kopy.io Integration": "https://github.com/Komodo/kopy.io-addon"
     
     "Stylish": 
         html_url: "https://github.com/JasonBarnabe/stylish"
