@@ -1,5 +1,5 @@
 module.exports =
-    "Sort open tabs by full path": "https://github.com/AtmanActive/Komodo"
+    "Sort open tabs by full path": "https://github.com/AtmanActive/Komodo-Edit-Macro---Sort-open-tabs-by-full-path"
     "Backup save": "https://github.com/Defman21/komodo-savebackup"
     "Autocomplete Files Under Path": "https://github.com/Defman21/files-from-path"
     "One-Way File Sync": "https://github.com/Defman21/save-if-diff-files"
