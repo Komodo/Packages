@@ -444,3 +444,24 @@ module.exports =
         raw_url: "https://github.com/Komodo/macros/blob/master/comment_toggle.py"
         created_at: "2014-09-03T00:00:00Z"
         updated_at: "2014-09-03T00:00:00Z"
+
+    "Multi Row Editor Tabs":
+        owner:
+            login: "toddw-as"
+            gravatar_id: "fbf0600881da69934bad33192694d484"
+            html_url: "https://github.com/toddw-as"
+        description: "Multi-row editor tabs"
+        readme: content: """
+            Allows multiple rows of Komodo editor tabs. When there is not enough
+            horizontal room, the tabs will wrap around onto the next line.
+            It allows you to see all editor tabs at a glance.
+
+            ## Usage
+            1. Install the Macro (drag the .komodotool into your toolbox)
+            2. Set macro to trigger on the Komodo startup event (right click > Properties > Triggers)
+            3. Restart Komodo.
+        """
+        homepage: "https://github.com/Komodo/macros"
+        raw_url: "https://github.com/Komodo/macros/blob/master/editor_tabs_multiple_rows.js"
+        created_at: "2014-10-21T00:00:00Z"
+        updated_at: "2014-10-21T00:00:00Z"
