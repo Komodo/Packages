@@ -1,4 +1,5 @@
 module.exports =
+    "Element Inspector": "https://github.com/Defman21/element-inspector-komodo"
     "WakaTime": "https://github.com/wakatime/komodo-wakatime"
     "Todo Helper": "https://github.com/Komodo/Todo"
     "Side by Side Diff": "https://github.com/Komodo/SideBySideDiff"
