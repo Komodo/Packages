@@ -21,10 +21,7 @@ module.exports =
     "MacroTool addon": "https://github.com/Defman21/komodo-macrotool"
     "HTML Tools":"https://github.com/manngo/html-tools"
     "kopy.io Integration": "https://github.com/Komodo/kopy.io-addon"
-    "Markdown Viewer": 
-        owner: 
-            login: "toddw-as"
-        html_url: "https://github.com/Komodo/markdown-viewer"
+    "Markdown Viewer": "https://github.com/Komodo/markdown-viewer"
     
     "Stylish": 
         html_url: "https://github.com/JasonBarnabe/stylish"
