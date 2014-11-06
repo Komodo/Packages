@@ -152,3 +152,23 @@ module.exports =
         """
         created_at: "2008-02-01"
         updated_at: "2014-07-02"
+
+    "Markdown Viewer": 
+        owner:
+            login: "Todd Whiteman"
+            html_url: "https://github.com/Komodo/markdown-viewer"
+        raw_url: "https://github.com/Komodo/markdown-viewer/blob/master/releases/markdown-viewer-0.2-ko.xpi"
+        description: "Provides real-time markdown HTML preview support for Markdown files."
+        readme: content:"""
+            A Preview button appears in the top-right corner of the editor
+            whenever a Markdown file is open. Previews can be arranged
+            side-by-side, or under-over.
+
+            **Screenshot**
+
+            ![Markdown Screenshot][5]
+
+               [5]: https://github.com/Komodo/markdown-viewer/raw/master/screenshots/markdown-viewer.png (Markdown Preview screenshot)
+        """
+        created_at: "2008-02-01"
+        updated_at: "2014-07-02"
