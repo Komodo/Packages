@@ -21,6 +21,10 @@ module.exports =
     "MacroTool addon": "https://github.com/Defman21/komodo-macrotool"
     "HTML Tools":"https://github.com/manngo/html-tools"
     "kopy.io Integration": "https://github.com/Komodo/kopy.io-addon"
+    "Markdown Viewer": 
+        owner: 
+            login: "toddw-as"
+        html_url: "https://github.com/Komodo/markdown-viewer"
     
     "Stylish": 
         html_url: "https://github.com/JasonBarnabe/stylish"
@@ -28,7 +32,7 @@ module.exports =
     "TabSwitcher revived":
         owner:
             login: "Davide Ficano"
-            html_url: "http://community.activestate.com/node/9047"
+        html_url: "http://community.activestate.com/node/9047"
         raw_url: "http://community.activestate.com/files/tabswitcher-1.1.0-ko_0.xpi"
         description: "This is a revival of dafi's TabSwitcher extension. It's basically the same extension, minus the edit position feature, ported to Komodo 7 and 8."
         created_at: "2012-08-29"
@@ -37,7 +41,7 @@ module.exports =
     "SciViews-K":
         owner:
             login: "Sergey Chikuyonok"
-            html_url: "http://community.activestate.com/xpi/sciviews-k"
+        html_url: "http://community.activestate.com/xpi/sciviews-k"
         raw_url: "http://community.activestate.com/files/emmet-1.0.4-ko.xpi"
         description: "SciViews-K is an extension for Komodo Edit to transform it into a R editor and GUI. Version 0.9.33 requires R 2.11.1 or higher, and is now compatible with Komodo 8."
         created_at: "2008-08-18"
@@ -46,7 +50,7 @@ module.exports =
     "Emmet (formerly Zen Coding)":
         owner:
             login: "Philippe Grosjean"
-            html_url: "http://community.activestate.com/xpi/zen-coding"
+        html_url: "http://community.activestate.com/xpi/zen-coding"
         raw_url: "http://community.activestate.com/files/sciviewsk-0.9.33-ko.xpi"
         description: "A web-developers toolkit that can greatly improve your HTML & CSS workflow."
         readme: content: """
@@ -65,7 +69,7 @@ module.exports =
     "Komodo developer extension":
         owner:
             login: "Todd Whiteman"
-            html_url: "http://community.activestate.com/xpi/komodo-developer-extension"
+        html_url: "http://community.activestate.com/xpi/komodo-developer-extension"
         raw_url: "http://community.activestate.com/files/koextensiondev-1.2.4-ko.xpi"
         description: "This extension provides helper tools for working with JavaScript and Python inside of Komodo."
         readme: content: """
@@ -110,7 +114,7 @@ module.exports =
     "Remote Drive Tree":
         owner:
             login: "Todd Whiteman"
-            html_url: "http://community.activestate.com/xpi/remote-drive-tree"
+        html_url: "http://community.activestate.com/xpi/remote-drive-tree"
         raw_url: "http://community.activestate.com/files/remotedrivetree-1.4.3-ko_0.xpi"
         description: "Here is an extension that provides a servers tab inside of Komodo (installed after the Code Browser tab)."
         readme: content:"""
@@ -135,7 +139,7 @@ module.exports =
     "DOM Inspector": 
         owner:
             login: "Todd Whiteman"
-            html_url: "http://community.activestate.com/xpi/dom-inspector"
+        html_url: "http://community.activestate.com/xpi/dom-inspector"
         raw_url: "http://community.activestate.com/files/dom_inspector-2.0.14-fx+sm+fn+tb+ko.xpi"
         description: "Developer tool to examine the elements of the Komodo user interface - DOM nodes and CSS styling."
         readme: content:"""
@@ -149,26 +153,6 @@ module.exports =
             ![DOM Inspector screenshot][4]
 
                [4]: https://addons.cdn.mozilla.net/img/uploads/previews/full/46/46978.png (DOM Inspector screenshot)
-        """
-        created_at: "2008-02-01"
-        updated_at: "2014-07-02"
-
-    "Markdown Viewer": 
-        owner:
-            login: "Todd Whiteman"
-            html_url: "https://github.com/Komodo/markdown-viewer"
-        raw_url: "https://github.com/Komodo/markdown-viewer/blob/master/releases/markdown-viewer-0.2-ko.xpi"
-        description: "Provides real-time markdown HTML preview support for Markdown files."
-        readme: content:"""
-            A Preview button appears in the top-right corner of the editor
-            whenever a Markdown file is open. Previews can be arranged
-            side-by-side, or under-over.
-
-            **Screenshot**
-
-            ![Markdown Screenshot][5]
-
-               [5]: https://github.com/Komodo/markdown-viewer/raw/master/screenshots/markdown-viewer.png (Markdown Preview screenshot)
         """
         created_at: "2008-02-01"
         updated_at: "2014-07-02"
