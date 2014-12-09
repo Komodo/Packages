@@ -18,7 +18,6 @@ module.exports =
     "Paster!": "https://github.com/jdpaton/Paster"
     "Autocode": "https://github.com/davestewart/komodo-autocode"
     "Tabswitcher": "https://github.com/dafizilla/komodo-tabswitcher"
-    "MacroTool addon": "https://github.com/Defman21/komodo-macrotool"
     "HTML Tools":"https://github.com/manngo/html-tools"
     "kopy.io Integration": "https://github.com/Komodo/kopy.io-addon"
     "Markdown Viewer": "https://github.com/Komodo/markdown-viewer"
