@@ -43,12 +43,12 @@ module.exports =
         created_at: "2008-08-18"
         updated_at: "2013-10-29"
 
-    "Emmet (formerly Zen Coding)":
+    "Emmet":
         owner:
             login: "Philippe Grosjean"
         html_url: "http://community.activestate.com/xpi/zen-coding"
         raw_url: "http://community.activestate.com/files/sciviewsk-0.9.33-ko.xpi"
-        description: "A web-developers toolkit that can greatly improve your HTML & CSS workflow."
+        description: " (formerly Zen Coding) A web-developers toolkit that can greatly improve your HTML & CSS workflow."
         readme: content: """
             A web-developers toolkit that can greatly improve your HTML & CSS
             workflow. Read more on [emmetio](http://emmet.io/)
