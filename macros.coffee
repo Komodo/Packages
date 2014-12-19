@@ -1,4 +1,5 @@
 module.exports =
+    "JSEval macro": "https://github.com/tenbits/komodo-macro-jseval"
     "Sort open tabs by full path": "https://github.com/AtmanActive/Komodo-Edit-Macro---Sort-open-tabs-by-full-path"
     "Backup save": "https://github.com/Defman21/komodo-savebackup"
     "Autocomplete Files Under Path": "https://github.com/Defman21/files-from-path"
