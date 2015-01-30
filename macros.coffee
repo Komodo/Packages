@@ -465,3 +465,13 @@ module.exports =
         raw_url: "https://github.com/Komodo/macros/blob/master/editor_tabs_multiple_rows.js"
         created_at: "2014-10-21T00:00:00Z"
         updated_at: "2014-10-21T00:00:00Z"
+
+    "Open on GitHub":
+        owner:
+            login: "Naatan"
+            gravatar_id: "0bba0ddcdbb7fa3de8455389251e2f6d"
+            html_url: "https://github.com/Naatan"
+        description: "Opens current file location on GitHub (requires Komodo IDE 9)"
+        raw_url: "https://gist.github.com/Naatan/944d154f256558728c41"
+        created_at: "2015-01-30T00:00:00Z"
+        updated_at: "2015-01-30T00:00:00Z"
