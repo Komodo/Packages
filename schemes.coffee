@@ -1,4 +1,6 @@
 module.exports =
+    "Afterdawn": "https://github.com/Defman21/afterdawn-komodo"
+    "Blueland": "https://github.com/Defman21/blueland-komodo"
     "KiSTo": "https://github.com/Defman21/kisto-komodo"
     "Monocai": "https://github.com/bdryanovski/komodoTheme"
     "Twilight": "https://github.com/igstan/komodo-themes"
