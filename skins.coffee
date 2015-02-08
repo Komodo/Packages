@@ -4,3 +4,4 @@ module.exports =
     "Classic": "https://github.com/Komodo/Classic-Skin"
     "Spacemodo": "https://github.com/Komodo/Spacemodo-Skin"
     "Sublime": "https://github.com/Defman21/sublime-skin-komodo"
+    "AtomikZ": "https://github.com/Defman21/atomikz-komodo"
