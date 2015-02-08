@@ -36,18 +36,18 @@ module.exports =
 
     "SciViews-K":
         owner:
-            login: "Sergey Chikuyonok"
+            login: "Philippe Grosjean"
         html_url: "http://community.activestate.com/xpi/sciviews-k"
-        raw_url: "http://community.activestate.com/files/emmet-1.0.4-ko.xpi"
+        raw_url: "http://community.activestate.com/files/sciviewsk-0.9.33-ko.xpi"
         description: "SciViews-K is an extension for Komodo Edit to transform it into a R editor and GUI. Version 0.9.33 requires R 2.11.1 or higher, and is now compatible with Komodo 8."
         created_at: "2008-08-18"
         updated_at: "2013-10-29"
 
     "Emmet":
         owner:
-            login: "Philippe Grosjean"
+            login: "Sergey Chikuyonok"
         html_url: "http://community.activestate.com/xpi/zen-coding"
-        raw_url: "http://community.activestate.com/files/sciviewsk-0.9.33-ko.xpi"
+        raw_url: "http://community.activestate.com/files/emmet-1.0.4-ko.xpi"
         description: " (formerly Zen Coding) A web-developers toolkit that can greatly improve your HTML & CSS workflow."
         readme: content: """
             A web-developers toolkit that can greatly improve your HTML & CSS
