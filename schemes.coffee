@@ -14,3 +14,4 @@ module.exports =
         description: "All of the color schemes from http://chriskempson.github.io/base16/, created by Chris Kempson and contributors"
         readme: content: "Please see http://chriskempson.github.io/base16/ to preview the color schemes."
     "Boron": "https://github.com/detly/boron-komodo"
+    "Espresso": "https://github.com/Defman21/espresso-komodo"
