@@ -15,3 +15,4 @@ module.exports =
         readme: content: "Please see http://chriskempson.github.io/base16/ to preview the color schemes."
     "Boron": "https://github.com/detly/boron-komodo"
     "Espresso": "https://github.com/Defman21/espresso-komodo"
+    "Soda": "https://github.com/Defman21/soda-komodo"
