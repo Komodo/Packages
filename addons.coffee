@@ -21,7 +21,7 @@ module.exports =
     "HTML Tools":"https://github.com/manngo/html-tools"
     "kopy.io Integration": "https://github.com/Komodo/kopy.io-addon"
     "Markdown Viewer": "https://github.com/Komodo/markdown-viewer"
-    
+    "Emmet": "https://github.com/Defman21/emmet-kide9"
     "Stylish": 
         html_url: "https://github.com/JasonBarnabe/stylish"
     
