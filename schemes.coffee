@@ -16,3 +16,4 @@ module.exports =
     "Boron": "https://github.com/detly/boron-komodo"
     "Espresso": "https://github.com/Defman21/espresso-komodo"
     "Soda": "https://github.com/Defman21/soda-komodo"
+    "Blue-Soda": "https://github.com/Defman21/blue-soda-komodo"
