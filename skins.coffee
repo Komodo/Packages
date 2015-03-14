@@ -5,3 +5,4 @@ module.exports =
     "Spacemodo": "https://github.com/Komodo/Spacemodo-Skin"
     "Sublime": "https://github.com/Defman21/sublime-skin-komodo"
     "Atomik": "https://github.com/Defman21/atomik-komodo"
+    "Paper (skin compatibility)": "https://github.com/Defman21/komodo-paper-skin"
