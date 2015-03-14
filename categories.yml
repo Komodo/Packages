@@ -1,0 +1,45 @@
+- 
+  name: Addons
+  description: ""
+  resource: addons.yml
+  sort: 10
+- 
+  name: Macros
+  description: ""
+  resource: macros.yml
+  sort: 20
+- 
+  name: Toolbox
+  description: Snippets, Commands, Collections -- anything that goes into your toolbox
+  resource: toolbox.yml
+  sort: 30
+- 
+  name: Color Schemes
+  description: ""
+  resource: schemes.yml
+  sort: 40
+- 
+  name: Skins
+  description: ""
+  resource: skins.yml
+  sort: 50
+- 
+  name: Iconsets
+  description: ""
+  resource: iconsets.yml
+  sort: 60
+- 
+  name: Languages
+  description: ""
+  resource: languages.yml
+  sort: 70
+- 
+  name: Keybindings
+  description: ""
+  resource: keybinds.yml
+  sort: 80
+- 
+  name: Miscellaneous
+  description: ""
+  resource: misc.yml
+  sort: 90
