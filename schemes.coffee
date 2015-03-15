@@ -17,3 +17,4 @@ module.exports =
     "Espresso": "https://github.com/Defman21/espresso-komodo"
     "Soda": "https://github.com/Defman21/soda-komodo"
     "Blue-Soda": "https://github.com/Defman21/blue-soda-komodo"
+    "Flasty": "https://github.com/Defman21/flasty-komodo"
