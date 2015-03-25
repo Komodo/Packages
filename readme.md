@@ -27,8 +27,8 @@ is updated only once every hour.
 With Automatic resources all you do is supply the name and GitHub url of your
 resource, we will take care of the rest. To do this, use the following format:
 
-```coffeescript
-"Resource Name": "https://github.com/MyUsername/MyRepository"
+```yaml
+Resource Name: https://github.com/MyUsername/MyRepository
 ```
 
 ### Semi-Automatic
@@ -37,11 +37,14 @@ Say you want us to retrieve all your repository data for you, but you want to
 override certain information that is being supplied by GitHub. You can do this
 by using the following format:
 
-```coffeescript
-"Resource Name":
-    html_url: "https://github.com/MyUsername/MyRepository" # Required
-    owner: login: "MyOtherNickname" # Example
-    readme: contents: "Foo" # Example
+```yaml
+Resource Name:
+    html_url: https://github.com/MyUsername/MyRepository # Required
+    owner: 
+        login: MyOtherNickname # Example
+    readme: 
+        content: >
+                  Foo
 ```
 
 To find out what fields you can override please check out the
@@ -55,25 +58,22 @@ our parser, you can then manually provide us with all of your Resource informati
 You do this by providing us with your Resource information formatted in the same
 way as a repository is formatted in the [Github API documentation](https://developer.github.com/v3/repos/#get).
 
-Note that you **must not** include the `id` or `html_url` fields.
-
-```coffeescript
-"Resource Name":
+```yaml
+Resource Name:
     # Required Fields
     owner:
-        login: "MyName"
-        gravatar_id: "fbf0600881da69934bad33192694d484" # Optional
-        html_url: "https://github.com/MyName"
-    created_at: "2014-03-24T00:00:00Z"
-    updated_at: "2014-03-24T00:00:00Z"
+        login: MyName
+        gravatar_id: fbf0600881da69934bad33192694d484 # Optional
+        html_url: https://github.com/MyName
+    created_at: 2014-03-24T00:00:00Z
+    updated_at: 2014-03-24T00:00:00Z
 
     # The location where your Resource may be downloaded
-    raw_url: "https://raw.github.com/Foo/Bar/file.txt"
+    raw_url: https://raw.github.com/Foo/Bar/file.txt
 
     # Optional Fields
-    description: "My Description"
-    readme: content: """
-        My Readme
-    """
-    homepage: "https://.."
+    description: My Description
+    readme: content: >
+                      My Readme
+    homepage: https://..
 ```
