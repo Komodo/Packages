@@ -73,7 +73,8 @@ Resource Name:
 
     # Optional Fields
     description: My Description
-    readme: content: >
-                      My Readme
+    readme: 
+        content: >
+                  Foo
     homepage: https://..
 ```
