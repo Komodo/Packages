@@ -20,6 +20,8 @@ Tabswitcher: https://github.com/dafizilla/komodo-tabswitcher
 HTML Tools: https://github.com/manngo/html-tools
 kopy.io Integration: https://github.com/Komodo/kopy.io-addon
 Markdown Viewer: https://github.com/Komodo/markdown-viewer
+DOM Inspector: https://github.com/Komodo/dom-inspector
+Komodo Developer Extension: https://github.com/Komodo/developer-extension
 
 Stylish: 
   html_url: https://github.com/JasonBarnabe/stylish
@@ -60,55 +62,6 @@ Emmet:
   created_at: 2010-02-15
   updated_at: 2013-03-24
 
-Komodo developer extension: 
-  owner: 
-    login: Todd Whiteman
-  html_url: http://community.activestate.com/xpi/komodo-developer-extension
-  raw_url: http://community.activestate.com/files/koextensiondev-1.2.4-ko.xpi
-  description: This extension provides helper tools for working with JavaScript and Python inside of Komodo.
-  readme: 
-    content: >
-              This extension provides helper tools for working with JavaScript
-              and Python inside of Komodo. If you want to play around with the
-              JavaScript API, do some simple python coding tests, probe the
-              Komodo API for an extension, or play with the internals of Komodo,
-              then this is for you!
-              
-              Brief guide:
-              
-                * Once installed, access it through the Tools-&gt;Extension
-                  Developer menu
-                * When working with the JavaScript tools, you'll generally want
-                  to set the Scope to be the main Komodo window first, otherwise
-                  the Komodo API won't be available to you.
-                * Use Tab for completions on objects and scope, fantastic!
-                
-              Note: This extension is based upon Ted Mielczarek's \"Extension
-              Developer's Extension\". The only differences between this version
-              and Ted's is:
-              
-                * Updated to include a Komodo overlay
-                * Includes the Python Shell, this requires PyXPCOM (already
-                  provided by Komodo).
-                  
-              **Updates**
-              
-                * 5th July 2011
-                  * Make compatible with Komodo 7
-                * 18th March 2010
-                  * Automatically set the JS Shell to the scope of the opening window
-                  * Remember (persist) the shell dialog size **Screenshots**
-              
-              ![][1]
-              
-              ![][2]
-              
-                 [1]: http://community.activestate.com/files/images/js_shell.png
-                 [2]: http://community.activestate.com/files/images/py_shell.png
-
-  created_at: 2008-01-14
-  updated_at: 2013-03-11
-
 Remote Drive Tree: 
   owner: 
     login: Todd Whiteman
@@ -137,24 +90,3 @@ Remote Drive Tree:
                  [1]: http://community.activestate.com/files/images/RemoteDriveTree_ScreenShot_v2.png (RemoteDriveTree extension screenshot)
   created_at: 2007-11-16
   updated_at: 2013-03-11
-
-DOM Inspector: 
-  owner: 
-    login: Todd Whiteman
-  html_url: http://community.activestate.com/xpi/dom-inspector
-  raw_url: http://community.activestate.com/files/dom_inspector-2.0.14-fx+sm+fn+tb+ko.xpi
-  description: Developer tool to examine the elements of the Komodo user interface - DOM nodes and CSS styling.
-  readme: 
-    content: >
-              DOM Inspector is a tool that can be used to inspect and edit the
-              live UI (DOM) of Komodo. The DOM can be navigated using a two-paned
-              window displaying a variety of different views on the document and
-              all nodes within.
-              
-              **Screenshot**
-              
-              ![DOM Inspector screenshot][1]
-              
-                 [1]: https://addons.cdn.mozilla.net/img/uploads/previews/full/46/46978.png (DOM Inspector screenshot)
-  created_at: 2008-02-01
-  updated_at: 2014-07-02
