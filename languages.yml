@@ -7,6 +7,7 @@ Lilypond: https://github.com/marnen/komodo-lilypond
 R Language: https://github.com/jacoby/RLangSyntax
 Objective-C++: https://github.com/Quuxplusone/objectivecpp-for-komodoedit
 Mako Template Highlighting: https://github.com/creiht/komodomako
+Dockerfile Syntax Highlighting: https://github.com/Komodo/docker-lang
 
 Jade Syntax Highlighting: 
   html_url: https://github.com/rkgarcia/JadeLang4Komodo
@@ -60,7 +61,7 @@ TCL Syntax Checker:
   created_at: 2008-02-29
   updated_at: 2013-06-28
 
-Haml syntax highlighting: 
+Haml Syntax Highlighting: 
   owner: 
     login: Eric Promislow
     html_url: http://community.activestate.com/node/9903
@@ -69,7 +70,7 @@ Haml syntax highlighting:
   created_at: 2013-05-29
   updated_at: 2013-05-29
 
-UMN Mapserver Mapfiles Syntax Highlight: 
+UMN Mapserver Mapfiles Syntax Highlighting: 
   owner: 
     login: Chicoff
     html_url: http://community.activestate.com/xpi/umn-mapserver-mapfiles-syntax-highlight
@@ -77,12 +78,3 @@ UMN Mapserver Mapfiles Syntax Highlight:
   description: Support for editing MapFiles within Komodo. MapFiles are the basic configuration mechanism for UMN MapServer.
   created_at: 2010-11-24
   updated_at: 2013-03-13
-
-Dockerfile syntax highlighting:
-  owner:
-    login: mitchell-as
-    html_url: https://github.com/Komodo/docker-lang
-  raw_url: https://github.com/Komodo/docker-lang/releases/download/v0.1/Docker-lang-0.1-ko.xpi
-  description: Dockerfile syntax highlighting
-  created_at: 2015-07-30
-  updated_at: 2015-07-30
