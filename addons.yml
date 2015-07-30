@@ -1,4 +1,3 @@
-Beautify js: https://github.com/babobski/Beautify-js
 Less Compiler: https://github.com/babobski/Komodo-LESS-Compiler
 Sass Compiler: https://github.com/babobski/Komodo-sass-compiler
 Element Inspector: https://github.com/Defman21/element-inspector-komodo
@@ -28,6 +27,10 @@ Projects Scope: https://github.com/Komodo/Projects-Scope
 Focus Mode: https://github.com/Komodo/Focus-Mode
 MySQL Database Explorer: https://github.com/Komodo/MySQL-Database-Explorer
 Servers Scope: https://github.com/Defman21/commando-servers
+
+Beautify js:
+  html_url:https://github.com/babobski/Beautify-js
+  description: This little beautifier will reformat css, html and javascript
 
 Stylish: 
   html_url: https://github.com/JasonBarnabe/stylish
