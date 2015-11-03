@@ -4,9 +4,9 @@
   resource: addons.yml
   sort: 10
 - 
-  name: Macros
+  name: Userscripts
   description: ""
-  resource: macros.yml
+  resource: userscripts.yml
   sort: 20
 - 
   name: Toolbox
