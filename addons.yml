@@ -17,7 +17,7 @@ qwin: https://github.com/agroszer/komodo-qwin
 Komodin Git: https://github.com/titoBouzout/komodo-komodin-git
 SQLite Manager: https://github.com/lazierthanthou/sqlite-manager
 Quick Diff: https://github.com/tuomassalo/komodo-quickdiff
-SciViews-R: https://github.com/cran/svKomodo
+SciViews-K: https://github.com/SciViews/sciviewsk
 Klint: https://github.com/dafizilla/komodo-klint
 Xultris: https://github.com/mackers/xultris
 Avim: https://github.com/1ec5/avim
@@ -37,6 +37,7 @@ MySQL Database Explorer: https://github.com/Komodo/MySQL-Database-Explorer
 Servers Scope: https://github.com/Defman21/commando-servers
 Sites: https://github.com/brabitom/komodo-sites
 Git Branch in Statusbar: https://github.com/neurobashing/Komodo-Git-Branch
+Klint: https://github.com/Komodo/klint
 
 Stylish: 
   html_url: https://github.com/JasonBarnabe/stylish
@@ -49,15 +50,6 @@ TabSwitcher revived:
   description: This is a revival of dafi's TabSwitcher extension. It's basically the same extension, minus the edit position feature, ported to Komodo 7 and 8.
   created_at: 2012-08-29
   updated_at: 2014-01-17
-
-SciViews-K: 
-  owner: 
-    login: Philippe Grosjean
-  html_url: http://community.activestate.com/xpi/sciviews-k
-  raw_url: http://community.activestate.com/files/sciviewsk-0.9.33-ko.xpi
-  description: SciViews-K is an extension for Komodo Edit to transform it into a R editor and GUI. Version 0.9.33 requires R 2.11.1 or higher, and is now compatible with Komodo 8.
-  created_at: 2008-08-18
-  updated_at: 2013-10-29
 
 Emmet: 
   owner: 
