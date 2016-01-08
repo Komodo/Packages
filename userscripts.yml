@@ -7,6 +7,8 @@ Mark Text: https://github.com/Komodo/Mark-Text-Macro
 CSS Color Palette: https://github.com/mahonnaise/Komodo-Macros
 Markdown Preview: https://github.com/ivoryworks/komodo-markdown-aid
 JSEval: https://github.com/tenbits/komodo-macro-jseval
+Tag Navigation: https://raw.githubusercontent.com/krizoek/komodo-comment-storage
+Tag Index Generator: https://github.com/krizoek/komodo-comment-storage
 
 Copy Find Results: 
   owner: 
@@ -435,40 +437,3 @@ Open on GitHub:
   raw_url: https://gist.github.com/Naatan/944d154f256558728c41
   created_at: 2015-01-30
   updated_at: 2015-01-30
-
-Tag Navigation: 
-  owner: 
-    login: krizoek
-    gravatar_id: fad03e271952a90f42ef8f7d88eac951
-    html_url: https://github.com/krizoek/komodo-comment-storage
-  description: Tag navigation for komodo editor
-  readme: 
-    content: >
-              Navigate Tags by adding a + after the first char in tag container
-              Example ◙+tag1,22◘   (will navigate to line 22 after adding the + before tag1)
-              
-              ## description
-              Scimos javascript macro developed to be used in Komodo edit
-Tag-format: ◙tags◘ (to be used inside comments)
-  homepage: https://github.com/krizoek/komodo-comment-storage
-  raw_url:  https://raw.githubusercontent.com/krizoek/komodo-comment-storage/master/CommentTagNav.js
-  created_at: 2015-12-24
-  updated_at: 2016-1-3
-  
- Tag Index Generator: 
-  owner: 
-    login: krizoek
-    gravatar_id: fad03e271952a90f42ef8f7d88eac951
-    html_url: https://github.com/krizoek/komodo-comment-storage
-  description: Create reference for all tags found in document.
-  readme: 
-    content: >
-              Tag-format: ◙tags◘ (to be used inside comments)
-              (This can be used together with the tag-navigation script)
-              ## description
-              Scimos javascript macro developed to be used in Komodo edit
-Tag-format: ◙tags◘ (to be used inside comments)
-  homepage: https://github.com/krizoek/komodo-comment-storage
-  raw_url:  https://github.com/krizoek/komodo-comment-storage/raw/master/CommentStorageTags.js
-  created_at: 2015-12-24
-  updated_at: 2016-1-3
