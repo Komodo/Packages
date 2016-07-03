@@ -6,7 +6,7 @@ Last Modified Files: https://github.com/babobski/Last-modified-files
 Relative Includes: https://github.com/babobski/relative-includes
 EOL widget: https://github.com/babobski/EOL-widget
 HTML Entities Pane: https://github.com/babobski/HTML-Entities
-FontAwesome Pane: https://github.com/babobski/FontAwesome 
+FontAwesome Pane: https://github.com/babobski/FontAwesome
 KoffeeLint: https://github.com/ervumlens/koffeelint
 Preference Spy: https://github.com/ervumlens/ko-preferencespy
 Style Spy: https://github.com/ervumlens/ko-stylespy
@@ -46,11 +46,11 @@ Klint: https://github.com/Komodo/klint
 Terminal: https://github.com/Defman21/komodo-terminal-butterfly
 Xemmet: https://github.com/Defman21/Xemmet
 
-Stylish: 
+Stylish:
   html_url: https://github.com/JasonBarnabe/stylish
 
-TabSwitcher revived: 
-  owner: 
+TabSwitcher revived:
+  owner:
     login: Davide Ficano
   html_url: http://community.activestate.com/node/9047
   raw_url: http://community.activestate.com/files/tabswitcher-1.1.0-ko_0.xpi
@@ -58,13 +58,13 @@ TabSwitcher revived:
   created_at: 2012-08-29
   updated_at: 2014-01-17
 
-Emmet: 
-  owner: 
+Emmet:
+  owner:
     login: Sergey Chikuyonok
   html_url: http://community.activestate.com/xpi/zen-coding
   raw_url: http://community.activestate.com/files/emmet-1.0.4-ko.xpi
   description:  (formerly Zen Coding) A web-developers toolkit that can greatly improve your HTML & CSS workflow.
-  readme: 
+  readme:
     content: >
                 A web-developers toolkit that can greatly improve your HTML & CSS
                 workflow. Read more on [emmetio](http://emmet.io/)
@@ -76,31 +76,31 @@ Emmet:
   created_at: 2010-02-15
   updated_at: 2013-03-24
 
-Remote Drive Tree: 
-  owner: 
+Remote Drive Tree:
+  owner:
     login: Todd Whiteman
   html_url: http://community.activestate.com/xpi/remote-drive-tree
   raw_url: http://community.activestate.com/files/remotedrivetree-1.4.3-ko_0.xpi
   description: Here is an extension that provides a servers tab inside of Komodo (installed after the Code Browser tab).
-  readme: 
+  readme:
     content: >
               Here is an extension that provides a servers tab inside of Komodo
               (installed after the Code Browser tab).
-              
+
               This extension provides a server tree row, one for each of your
               server accounts set in server preferences.
-              
+
               The server tree rows are expandable and upon selection of a server
               tree row, the file contents will be displayed in a file tree
               (located just below the server tree).
-              
+
               The file tree rows can be selected and the correstponding files
               can be opened by double-clicking a row or by pressing the enter key.
-              
+
               **Screenshot**
-              
+
               ![RemoteDriveTree extension screenshot][1]
-              
+
                  [1]: http://community.activestate.com/files/images/RemoteDriveTree_ScreenShot_v2.png (RemoteDriveTree extension screenshot)
   created_at: 2007-11-16
   updated_at: 2013-03-11
