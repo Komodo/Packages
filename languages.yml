@@ -80,3 +80,20 @@ UMN Mapserver Mapfiles Syntax Highlighting:
   description: Support for editing MapFiles within Komodo. MapFiles are the basic configuration mechanism for UMN MapServer.
   created_at: 2010-11-24
   updated_at: 2013-03-13
+
+Jinja2 Language:
+  owner:
+    login: Nguyen Hong Quan
+  html_url: https://bitbucket.org/hongquan/komodo-jinja
+  raw_url: https://bitbucket.org/hongquan/komodo-jinja/downloads/jinja_language-1.0-ko.xpi
+  description: Jinja2 support for Komodo
+  readme:
+    content: >
+              This extension add support for Jinja2 template language to Komodo Edit/IDE.
+              It provides:
+
+              - Syntax highlighting
+              - Tag and filter autocompletion.
+
+              Tested and work on Komodo Edit 10.
+              Based on Komodo's built-in Twig support.
