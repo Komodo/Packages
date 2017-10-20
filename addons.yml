@@ -60,24 +60,6 @@ TabSwitcher revived:
   created_at: 2012-08-29
   updated_at: 2014-01-17
 
-Emmet: 
-  owner: 
-    login: Sergey Chikuyonok
-  html_url: http://community.activestate.com/xpi/zen-coding
-  raw_url: http://community.activestate.com/files/emmet-1.0.4-ko.xpi
-  description:  (formerly Zen Coding) A web-developers toolkit that can greatly improve your HTML & CSS workflow.
-  readme: 
-    content: >
-                A web-developers toolkit that can greatly improve your HTML & CSS
-                workflow. Read more on [emmetio](http://emmet.io/)
-                When installed, Emmet actions will be available under Tools menu.
-                To bind keyboard shortcuts, go to Preferences > Editor > Key bindings
-                and filter commands by Emmet prefix.
-                [Extensions](http://docs.emmet.io/customization/) Emmet automatically
-                loads extensions from emmet folder of systems user HOME folder.
-  created_at: 2010-02-15
-  updated_at: 2013-03-24
-
 Remote Drive Tree: 
   owner: 
     login: Todd Whiteman
